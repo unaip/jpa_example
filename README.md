@@ -1,2 +1,2 @@
 
-This is an initial test projact for using JPS with Hibernate and glassfish.
+This is an initial test project for using JPA with Hibernate and glassfish.
